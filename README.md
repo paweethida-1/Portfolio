@@ -28,9 +28,8 @@ Performed customer segmentation and affinity analysis.
 ### 📊 Statistics and Machine Learning
 - [Sensor Data Drift Analyzer](https://github.com/paweethida-1/Sensor-Data-Drift-Analyzer) – Simulated sensor drift, denoising (MA/FFT), and visualization.
 - [Lens Sim Starter](https://github.com/paweethida-1/lens-sim-starter) – Synthetic lens surface deformation simulation (NumPy/Matplotlib): base curvature, Gaussian bump/dent, random noise, export plots to `outputs/`.
-- [Gaussian Mixture Model + EM](link) – Implemented EM algorithm for GMM.
-- [Linear Regression](link) – Solved regression using gradient descent.
-- [Neural Network Implementation](link) – Built NN from scratch.
+- [Lens Simulation Starter](https://github.com/paweethida-1/lens-sim-starter) | จำลองพื้นผิวเลนส์/ความบิดเบี้ยวแบบง่าย |
+
 
 ### 💡 Challenges
 - [SQL Challenges](link) – Solved SQL problems from Hackerrank, Leetcode.
