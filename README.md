@@ -23,10 +23,10 @@ Performed customer segmentation and affinity analysis.
 
 ---
 
-## 🔬 Micro Projects
+## 🔬 MiNi Projects
 
 ### 📊 Statistics and Machine Learning
-- [Genetic Algorithm](link) – Implemented simple GA to find list of numbers.
+- [Sensor Data Drift Analyzer](https://github.com/paweethida-1/Sensor-Data-Drift-Analyzer) – Simulated sensor drift, denoising (MA/FFT), and visualization.
 - [Bayesian Statistics](link) – Explored posterior probabilities with examples.
 - [Gaussian Mixture Model + EM](link) – Implemented EM algorithm for GMM.
 - [Linear Regression](link) – Solved regression using gradient descent.
