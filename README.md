@@ -8,14 +8,6 @@ This portfolio is updated on a regular basis.
 
 ---
 
-## 🏆 Achievements
-- Recipient of Outstanding Master of Engineering Award.
-- [Publication](https://example.com): Research paper on ...
-- Winner of Data Science Hackathon 2023 among 50+ teams.
-- Scholarship & Fee Waiver for excellent academic performance.
-
----
-
 ## 🚀 Projects
 
 ### [Customer Survival Analysis and Churn Prediction](link-to-repo-or-notebook)
