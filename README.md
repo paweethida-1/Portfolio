@@ -18,4 +18,4 @@ It includes academic, self-learning, and hobby projects.
 ### 🦄 Front-end  
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Calculator]((https://github.com/paweethida-1/mini-calculator)) | A simple and elegant web calculator |  HTML, CSS, JavaScript |
+| [Calculator](https://github.com/paweethida-1/mini-calculator) | A simple and elegant web calculator |  HTML, CSS, JavaScript |
