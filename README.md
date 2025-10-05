@@ -19,3 +19,5 @@ It includes academic, self-learning, and hobby projects.
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Calculator](https://github.com/paweethida-1/mini-calculator) | A simple and elegant web calculator |  HTML, CSS, JavaScript |
+
+| [ToDo-List](https://github.com/paweethida-1/mini-To-Do-List) | A clean and minimal To-Do List web app  |  HTML, CSS, JavaScript |
