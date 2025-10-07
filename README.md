@@ -15,6 +15,14 @@ It includes academic, self-learning, and hobby projects.
 | [🔬 Lens Sim Starter](https://github.com/paweethida-1/lens-sim-starter) | Synthetic **lens surface deformation simulation** with NumPy/Matplotlib. Helps visualize wavefront distortion. | Python, NumPy, Matplotlib |
 | [🪞 Defect Classifier Starter](https://github.com/paweethida-1/defect-classifier-starter) | ML-based classification of **normal vs defect surface images** using HOG + statistics features. | Python, scikit-learn, OpenCV |
 
+
+## 📊 Data Visualization Projects  
+
+| Project | Description | Tool |
+|---------|-------------|------|
+| [📈 SALES PERFORMANCE DASHBOARD](https://github.com/paweethida-1/SALES-PERFORMANCE-DASHBOARD) | **Interactive Power BI dashboard** summarizing total sales, profit, and top-performing categories, employees, and cities. | Power BI, DAX, Data Modeling |
+
+
 ### 🦄 Front-end  
 | Project | Description | Tech |
 |---------|-------------|------|
