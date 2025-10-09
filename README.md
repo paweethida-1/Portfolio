@@ -21,6 +21,9 @@ It includes academic, self-learning, and hobby projects.
 | Project | Description | Tool |
 |---------|-------------|------|
 | [📈 SALES PERFORMANCE DASHBOARD](https://github.com/paweethida-1/SALES-PERFORMANCE-DASHBOARD) | **Interactive Power BI dashboard** summarizing total sales, profit, and top-performing categories, employees, and cities. | Power BI, DAX, Data Modeling |
+| [Human Resource (HR) Data Analysis](https://github.com/paweethida-1/HR-Data-Analysis/tree/main) | This project analyzes a large-scale HR dataset from a multinational corporation (MNC), containing more than 2 million employee records.
+It includes data on demographics, departments, job titles, salaries, performance ratings, and employment status. | Jupytor |
+| [✈️ Flights Booking Data Analysis](https://github.com/paweethida-1/Airlines-Flights-Data-Analysis) | This project focuses on analyzing the Flights Booking Dataset containing real-world flight details between major cities in India. | Jupytor |
 
 
 ### 🦄 Front-end  
