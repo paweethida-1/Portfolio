@@ -7,7 +7,7 @@ It includes academic, self-learning, and hobby projects.
 
 ## 🔬 Mini Projects
 
-### 📊 Statistics and Machine Learning  
+### Statistics and Machine Learning  
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -16,7 +16,7 @@ It includes academic, self-learning, and hobby projects.
 | [🪞 Defect Classifier Starter](https://github.com/paweethida-1/defect-classifier-starter) | ML-based classification of **normal vs defect surface images** using HOG + statistics features. | Python, scikit-learn, OpenCV |
 
 
-## 📊 Data Visualization Projects  
+### Data Visualization Projects  
 
 | Project | Description | Tool |
 |---------|-------------|------|
